@@ -29,7 +29,7 @@ ex:
 
 Sun Sep 28 11:34:58 2014 :
 ========================
-" You can start typing from here "
+" You can start typing from here !"
 
 You can also type "Scratch Pad" in command pannel(ctrl+shift+p) to edit the scratchpad file
 
